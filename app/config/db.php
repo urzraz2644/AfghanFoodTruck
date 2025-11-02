@@ -16,3 +16,4 @@ final class Database {
         return $conn;
     }
 }
+
