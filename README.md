@@ -20,3 +20,16 @@ See Word doc in Canvas for screenshots and results.
 1. Start Apache & MySQL in XAMPP 
 2. Import `/sql/` export if needed 
 3. Visit `http://localhost/AfghanFoodTruck/public/'
+
+## Project Skills Learned
+- PHP MVC folder structure and controller logic
+- MySQL database design and SQL export/import
+- HTML and CSS layout for views
+- Session handling for shopping cart persistence
+- GitHub verion control and commit history tracking
+
+## Link to Project
+[Afghan Food Truck Repository](https://github.com/urzraz2644/AfghanFoodTruck)
+
+## License
+Educational project for ECPI University - non-commercial academic use only
